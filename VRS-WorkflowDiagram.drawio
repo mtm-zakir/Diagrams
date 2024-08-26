@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Page-1" id="HKwWmguoMHsGXrWxV1Ef">
+    <mxGraphModel dx="1740" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-5" target="VNNLW0EUUcFb_iJuRT8k-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;START&lt;/span&gt;" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="315" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-24" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-6" target="VNNLW0EUUcFb_iJuRT8k-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-6" value="í ½í³© Staff member sends a request to General Administration" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-7" value="í ½í³ Request includes details (department, purpose, persons, place, time)" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-27" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-8" target="VNNLW0EUUcFb_iJuRT8k-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-8" value="âœ”ï¸ Request approved by head of department" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="266.88" y="410" width="196.25" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-9" value="í ½íº— Check vehicle availability" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="620" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-29" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-10" target="VNNLW0EUUcFb_iJuRT8k-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-47" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" connectable="0" parent="VNNLW0EUUcFb_iJuRT8k-29">
+          <mxGeometry x="0.0941" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-10" target="VNNLW0EUUcFb_iJuRT8k-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-48" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" connectable="0" parent="VNNLW0EUUcFb_iJuRT8k-30">
+          <mxGeometry x="0.1282" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-10" value="â“ Vehicle available?" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="268.44" y="740" width="193.12" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-11" target="VNNLW0EUUcFb_iJuRT8k-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-32" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-11" target="VNNLW0EUUcFb_iJuRT8k-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-11" value="âœ… Send approval to staff member" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="785" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-12" value="âŒ Send rejection to staff member" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="785" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-13" value="í ½í»‘ Staff member can cancel request" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="650" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-33" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-14" target="VNNLW0EUUcFb_iJuRT8k-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-14" value="âœï¸ Driver signs gate pass" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="910" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-35" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-15" target="VNNLW0EUUcFb_iJuRT8k-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-15" value="í ½íº¨ Driver hands gate pass to security officer" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1050" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-36" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-17" target="VNNLW0EUUcFb_iJuRT8k-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-17" value="í ½íº¨ Driver hands gate pass to security officer" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1050" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-37" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-18" target="VNNLW0EUUcFb_iJuRT8k-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1085" />
+              <mxPoint x="170" y="1245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-18" value="í ½íµ’ Security officer notes come in and come out time" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1050" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-38" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-19" target="VNNLW0EUUcFb_iJuRT8k-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-19" value="í ¼í¿ Journey completed" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1210" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-39" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-20" target="VNNLW0EUUcFb_iJuRT8k-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-20" value="í ½í²¬ Provide feedback on driver and vehicle" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1210" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-21" value="í ½í» ï¸ General Administration manages vehicles and drivers" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=0;size=0.14;arcSize=6;fontSize=14;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1200" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-22" value="í ½í³Š General Administration handles vehicle expenses, accidents, driver history" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=0;size=0.14;arcSize=6;fontSize=14;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1390" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-23" value="END" style="strokeWidth=0.5;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1405" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-7" target="VNNLW0EUUcFb_iJuRT8k-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-28" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-9" target="VNNLW0EUUcFb_iJuRT8k-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-41" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.996;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-21" target="VNNLW0EUUcFb_iJuRT8k-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="1245" />
+              <mxPoint x="1040" y="1444" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNNLW0EUUcFb_iJuRT8k-42" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="VNNLW0EUUcFb_iJuRT8k-22" target="VNNLW0EUUcFb_iJuRT8k-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
